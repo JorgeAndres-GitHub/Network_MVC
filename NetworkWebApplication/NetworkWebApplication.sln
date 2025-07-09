@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkWeb", "NetworkWeb\NetworkWeb.csproj", "{AC94C664-AA44-447C-933F-40BE49D608C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC94C664-AA44-447C-933F-40BE49D608C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC94C664-AA44-447C-933F-40BE49D608C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC94C664-AA44-447C-933F-40BE49D608C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC94C664-AA44-447C-933F-40BE49D608C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AD6FFD0-8542-40BE-A820-9A1B4F94E589}
+	EndGlobalSection
+EndGlobal
